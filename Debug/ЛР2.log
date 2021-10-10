@@ -1,0 +1,38 @@
+﻿  realization.cpp
+C:\Users\denis\Desktop\ЛР2\realization.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\denis\Desktop\ЛР2\realization.cpp(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(41,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(45,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(284,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(379): message : выполняется компиляция ссылки на экземпляр шаблон функции "T **Transposition<int>(T **,size_t,size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\ЛР2\realization.cpp(285,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(354,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(383): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool IsEqual<int>(T **,T **,size_t,size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\ЛР2\realization.cpp(355,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(223,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(391): message : выполняется компиляция ссылки на экземпляр шаблон функции "int *IndexOfMinInMainDiagonal<int>(T **,size_t,size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\ЛР2\realization.cpp(335,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\ЛР2\realization.cpp(395): message : выполняется компиляция ссылки на экземпляр шаблон функции "T **RemoveRowAndColumn<int>(T **,size_t,size_t,size_t,size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\ЛР2\realization.cpp(337,31): warning C4018: <: несоответствие типов со знаком и без знака
+  ЛР2.vcxproj -> C:\Users\denis\Desktop\ЛР2\Debug\ЛР2.exe

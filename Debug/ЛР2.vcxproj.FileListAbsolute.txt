@@ -1,0 +1,3 @@
+C:\Users\Ди\source\repos\ЛР2\Debug\ЛР2.exe
+C:\Users\Ди\source\repos\ЛР2\Debug\ЛР2.pdb
+C:\Users\denis\Desktop\ЛР2\Debug\ЛР2.exe
